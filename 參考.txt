@@ -1,0 +1,13 @@
+網頁上好用小圖使用CSS ICON 圖示框架Font Awesome
+https://ucamc.com/e-learning/css/48-font-awesome-icon-css
+https://fontawesome.com/icons?d=gallery&m=free
+
+https://www.w3schools.com/bootstrap/bootstrap_modal.asp
+
+[BS] Bootstrap 4 自訂容器和欄間距寬度（Custom Container and Gutters Width）
+https://pjchender.blogspot.com/2017/10/bs-bootstrap-4-custom-container-and.html
+
+https://themes.getbootstrap.com/preview/?theme_id=19860
+
+bg-img
+https://cssgradient.io
