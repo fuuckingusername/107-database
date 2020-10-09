@@ -13,3 +13,7 @@ bg-img
 https://cssgradient.io
 
 https://prevwong.github.io/awesome-select/
+
+-------------------
+> loading block
+https://codepen.io/luv2code/pen/evaBXm
